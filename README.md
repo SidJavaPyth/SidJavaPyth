@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="SKVunite.png" alt="SidJavaPyth Banner" width="100%">
+  <img src="SKVunite_cropped.png" alt="SidJavaPyth Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm SidJavaPyth</h1>
 <h3 align="center">A passionate frontend and backend developer from India.</h3>
