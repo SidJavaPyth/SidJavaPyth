@@ -13,6 +13,8 @@ preview
 - 🌱 I’m currently learning **from FreeCodeChamp**
 
 - ⚡ Fun fact **I spend half my time gaming, the other half editing... and somewhere in between, I write code!**
+- 📌 **Current Focus:** HTML, CSS, and JavaScript  
+- 🎯 **Future Goals:** Master React, Full-Stack Development 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
