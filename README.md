@@ -16,7 +16,9 @@
 
 - ⚡ Fun fact **I spend half my time gaming, the other half editing... and somewhere in between, I write code!**
 - 📌 **Current Focus:** HTML, CSS, and JavaScript  
-- 🎯 **Future Goals:** Master React, Full-Stack Development 
+- 🎯 **Future Goals:** Master React, Full-Stack Development
+  <p>Here are some of my achievements!</p>
+  <img src="SidJavaPyth Responsive WEBDEV certificate.png" alt="certificate">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
